@@ -29,7 +29,8 @@ GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-Had trouble initially following the tutorial because my default project in Xcode looked different than the one in the tutorial. Eventually figured out how to change it. 
+Had trouble initially following the tutorial because my default project in Xcode looked different than the one in the tutorial. Eventually figured out how to change it. Attempted to implement a settings screen, but could not get the default
+tip percentage functionality to work correctly, so ended up removing it.
 
 ## License
 
